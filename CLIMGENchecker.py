@@ -5,7 +5,7 @@
 ## 23/ott/2015 Ezequiel Nicolazzi - Made app for windows and macOS
 ## 12/jan/2016 Ezequiel Nicolazzi - Update with new template (latest update)
 ## 11/feb/2016 Ezequiel Nicolazzi - Added check on new variable RefSeq
-##
+## 07/jun/2016 Ezequiel Nicolazzi - Submitted to Github
 ######################################################################################################
 ## INTERNAL WARNING (ITALIAN):
 ## la lista dell'alfabeto arriva a BZ. se si inseriscono altre colonne aggiungere alla lista 'alpha'
